@@ -1,6 +1,6 @@
 Drag it: Drvive
 ================
-
+A Pygame based Python game application.
 Navigate the streets, collecting pink trophies. 
 
 ## Getting started
